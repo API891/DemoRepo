@@ -2,6 +2,7 @@ package com.apisero;
 import java.util.Scanner;
 public class Matrix{
 	public static void main(String[] args) {
+		//successfully pulled
 		Scanner sc=new Scanner(System.in);
 		int rows,columns,matrix1[][],matrix2[][];
 		System.out.println("Enter the number of rows:");
