@@ -1,4 +1,4 @@
-cho "Enter a number : $1"
+echo "Enter a number : $1"
 
 # First Number of the
 # Fibonacci Series
